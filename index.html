@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Pet Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Tamogotchi the Game</h1>
+    <!-- tamogotchi SVG here -->
+    <div class="displayTamogotchi">
+
+    <!-- this the object tag for the charcter -->
+        <object data="img/character.svg" type="image/svg+xml" class="character" id ="character"></object>
+
+    </div>
+
+    <!-- Enter the userName -->
+    <div class="takeuserName">
+        Enter your Name:<input type="text" id="playerName" placeholder="UserName"/>
+    </div>
+    <!-- pet actions displays here -->
+    <div class="displayPetActions">
+        <div id="displayMetabolism"></div>
+        Compliment:<div id="displayCompliment"></div>
+        
+    </div>
+    <!-- get Random mood -->
+    <div id="moodPlace">
+        Mood
+    </div>
+
+    <!-- food for my pet displays here -->
+    <div class="displayPetfoodPoints">
+        <!-- create  area to display the food for my pet -->
+        <div id="displayFoodPoints"></div>
+
+    </div>
+
+
+    <div class="clickableSection">
+        <button id ="startGame">Start/Reset the Game</button>
+        <button id ="feedMyPet">Feed the your pet</button>
+        <button id="compliment">compliment</button>
+        <button id="increasePetMetabolismRate">Increase metabolism</button>
+        <button id="decreasePetMetabolismRate">decrease metabolism</button>
+        <button id="showPetMood">Display pet mood</button>
+    </div>       
+    <!-- GSAP library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+
+    <!-- motion path plugin -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/MotionPathPlugin.min.js"></script>
+
+    <script src="es6script.js"></script>
+    <!-- <script src="script.js"></script> -->
+</body>
+</html>

@@ -1,0 +1,118 @@
+.displayTamogotchi{
+    float: left;
+}
+.takeuserName{
+    margin-top:15%;
+}
+#moodPlace ,.takeuserName , .displayPetfoodPoints,.displayPetActions{
+    margin-left:60%;
+    margin-top:10px;
+    background-color: blue;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    height: 70px;
+    width:400px;
+}
+.displayPetActions{
+    width: 400px;
+    justify-content: space-around;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./img/background.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.baseStyle {
+    fill: #fff061;
+    stroke: #6d840b;
+    stroke-miterlimit: 10;
+}
+
+.btnStyle1 {
+    fill: #fff;
+}
+
+.baseStyle {
+    fill: #fff061;
+    stroke: #6d840b;
+    stroke-miterlimit: 10;
+}
+
+.cls-10 {
+    fill: #fff;
+}
+
+.cls-1 {
+fill: #ffef7b;
+}
+
+.cls-1, .cls-4, .cls-5, .cls-6 {
+stroke: #224763;
+stroke-miterlimit: 10;
+}
+
+.cls-1, .cls-4, .cls-5 {
+stroke-width: 5px;
+}
+
+.cls-2,.cls-7 {
+fill: #224763;
+}
+
+.cls-3 {
+fill: #eda9e0;
+}
+
+.cls-4 {
+fill: #fff;
+}
+
+.cls-5 {
+fill: #fcfcfc;
+}
+
+.cls-6 {
+fill: none;
+stroke-width: 6px;
+}
+object{
+    width:120px;
+    height:120px;
+    margin: 10px;
+}
+#ex0,#ex1,#ex2,#ex3,#ex4{
+     visibility: hidden; 
+}
+section{
+    display: flex;
+    text-align: center;
+    margin-left:23%;
+
+}
+.character{
+    width:500px;
+    height: 500px;
+    margin-top: 2%;
+}
+.clickableSection{
+    z-index: 999;
+    position: relative;
+    margin-top: 300px;
+    margin-bottom: 20px;
+}
+#startGame , #feedMyPet , #compliment , #increasePetMetabolismRate ,#decreasePetMetabolismRate , #showPetMood{
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+}
+#dead_eyes1, #dead_eyes2, #movingMouth {
+    opacity: 0;
+}

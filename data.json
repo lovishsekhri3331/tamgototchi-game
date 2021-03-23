@@ -1,0 +1,54 @@
+{
+    "petEmotionalReaction" : [
+        {"myPetMood":"Happy", "myPetReaction":"HeeeHaaa"},
+        {"myPetMood":"Sad", "myPetReaction":"NOOOOOOO"},
+        {"myPetMood":"Angry", "myPetReaction":"I'm not a GILAMONSTER!!!!"},
+        {"myPetMood":"Jokey", "myPetReaction":"Why did the chicken cross the road!"},
+        {"myPetMood":"Happy", "myPetReaction":"I am very happy today"},
+        {"myPetMood":"Sad", "myPetReaction":"I don't have friends"},
+        {"myPetMood":"Angry", "myPetReaction":"OOeei Why did you eat my ICE CREAMMMMMM!!!"},
+        {"myPetMood":"Jokey", "myPetReaction":"hehehehehehehehehehehehehhehehe"},
+        {"myPetMood":"Happy", "myPetReaction":"I feel good today!!"},
+        {"myPetMood":"Sad", "myPetReaction":"But You said we are having ice cream today"},
+        {"myPetMood":"Angry", "myPetReaction":"But you said we were going for walk today"},
+        {"myPetMood":"Jokey", "myPetReaction":"Do like my Chicken head"},
+        {"myPetMood":"Happy", "myPetReaction":"It's a beautiful daa!!!"},
+        {"myPetMood":"Sad", "myPetReaction":"I dont like rain we can't play outside"},
+        {"myPetMood":"Angry", "myPetReaction":"OOOiee Don't eat my pudding"}, 
+        {"myPetMood":"Jokey", "myPetReaction":"I AM SPONGEBOBBBB LOL!!!"}
+    ],
+
+    "foodForMyPet" : [
+        {"NameOfFood":"Lasagna", "pointsToPet":23, "chancesToGetSick": 0.5},
+        {"NameOfFood":"Noodles", "pointsToPet":14, "chancesToGetSick": 0.7},
+        {"NameOfFood":"Pizza", "pointsToPet":40, "chancesToGetSick": 0.4},
+        {"NameOfFood":"Chocolate", "pointsToPet":30, "chancesToGetSick": 0.2},
+        {"NameOfFood":"Ice Cream", "pointsToPet":18, "chancesToGetSick": 0.6},
+        {"NameOfFood":"Rice", "pointsToPet":39, "chancesToGetSick": 0.8},
+        {"NameOfFood":"Yogurt", "pointsToPet":40, "chancesToGetSick": 0.8},
+        {"NameOfFood":"Pet Food", "pointsToPet":30, "chancesToGetSick": 0.1},
+        {"NameOfFood":"Celery", "pointsToPet":10, "chancesToGetSick": 0.9},
+        {"NameOfFood":"Nothing", "pointsToPet":0, "chancesToGetSick": 0.1},
+        {"NameOfFood":"Shawarma", "pointsToPet":35, "chancesToGetSick": 0.5},
+        {"NameOfFood":"burger", "pointsToPet":30, "chancesToGetSick": 0.2},
+        {"NameOfFood":"Butter chicken", "pointsToPet":40, "chancesToGetSick": 0.7},
+        {"NameOfFood":"Chicken wings", "pointsToPet":23, "chancesToGetSick": 0.5}
+        
+
+    ],
+
+    "complimentForUser" : [
+        "You look beautul today",
+        "I am Lucky to have you with me today",
+        "You look so good, I'd marry your brother just to get in your family XD",
+        "I think I have seen your picture somwhere before, Oh yeah It was in the dictionary next to GORGEOUS",
+        "I am greatful to be with you",
+        "Time flys when your next to me",
+        "somebody call the cops,It's got to be illegal to look that good",
+        "I think you are a really good person",
+        "I Like your hair",
+        "You are very fit"
+    ]
+
+    
+}

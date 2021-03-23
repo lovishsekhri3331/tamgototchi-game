@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../styles.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 602.72 776.04">
+  <g id="base">
+    <path id="mainbody" class="cls-1" d="M531.12,731.61H268.37c-53,0-96.31-43.34-96.31-96.3l-.86-305.06c0-53,44.2-93.07,97.17-93.07H531.12c53,0,96.31,43.33,96.31,96.3V635.31C627.43,688.27,584.09,731.61,531.12,731.61Z" transform="translate(-102.88 -21.45)"/>
+    <path id="limb" class="cls-1" d="M171.75,462.66s-85.28,57-62.5,104,62.5-32.76,62.5-32.76Z" transform="translate(-102.88 -21.45)"/>
+    <path id="limb-2" data-name="limb" class="cls-1" d="M627.48,440.94s96.08,57,71.64,104-71.64-32.76-71.64-32.76Z" transform="translate(-102.88 -21.45)"/>
+    <path id="limb-3" data-name="limb" class="cls-1" d="M281.1,732.61s-83.46,26.15-45.65,56.06,100.09-56.06,100.09-56.06Z" transform="translate(-102.88 -21.45)"/>
+    <path id="limb-4" data-name="limb" class="cls-1" d="M513.15,732.61s89.18,26.15,48.77,56.06-107-56.06-107-56.06Z" transform="translate(-102.88 -21.45)"/>
+    <path id="hat" class="cls-2" d="M170.12,343.13S229,322,302.94,332.44s123.55,7.58,149.59,2.87C563.41,315.24,629,343.13,629,343.13S648.51,218,532.2,201.82c0,0,11.83-82.54,4.44-118.07S506.18,16,487,22.24,439,125.54,464.16,201.82H323.65S342.88,67,295.55,33.59s-79.7,118.33-52.37,177.9C243.18,211.49,158.74,237.18,170.12,343.13Z" transform="translate(-102.88 -21.45)"/>
+    <ellipse id="cheek" class="cls-3" cx="267.73" cy="522.06" rx="46.32" ry="37.56" transform="translate(-165.72 15.89) rotate(-7.14)"/>
+    <ellipse id="cheek-2" data-name="cheek" class="cls-3" cx="543.93" cy="514.21" rx="47.04" ry="34.14" transform="translate(-162.6 50.17) rotate(-7.14)"/>
+    <g id="innerEye">
+      <ellipse class="cls-4" cx="408.91" cy="420.18" rx="39.29" ry="27.97"/>
+      <ellipse class="cls-5" cx="195.71" cy="420.18" rx="39.62" ry="27.97"/>
+    </g>
+  </g>
+  <g id="m">
+    <path class="cls-1" id="mouth" d="M298,632.68c100.72-13.82,196,0,196,0" transform="translate(-102.88 -21.45)"/>
+  </g>
+  
+    <circle class="cls-2" id="eye1" cx="195.71" cy="420.72" r="19.44"/>
+    <circle class="cls-2" id="eye2" cx="408.91" cy="420.72" r="19.44"/>
+
+  <g id="eyebrow">
+    <path class="cls-6" id="eyebrow1" d="M231.25,400s68.84-65.18,125.71,0" transform="translate(-102.88 -21.45)"/>
+    <path class="cls-6" id="eyebrow2" d="M445.73,400s68.85-65.18,125.72,0" transform="translate(-102.88 -21.45)"/>
+  </g>
+  <g id="dead_eyes1" data-name="dead-eyes">
+    <path class="cls-6" d="M280.58,427.42s14.71,0,38.38,30.26" transform="translate(-102.88 -21.45)"/>
+    <path class="cls-6" d="M280.58,460.11s9.85-19.17,38.38-32.69" transform="translate(-102.88 -21.45)"/>
+  </g>
+  <g id="dead_eyes2" data-name="dead-eyes">
+    <path class="cls-6" d="M492.61,427.42s14.7,0,38.38,30.26" transform="translate(-102.88 -21.45)"/>
+    <path class="cls-6" d="M492.61,460.11s9.85-19.17,38.38-32.69" transform="translate(-102.88 -21.45)"/>
+  </g>
+  <g >
+    <ellipse id="movingMouth" class="cls-7" cx="304.32" cy="616.69" rx="93.94" ry="24.02"/>
+  </g>
+
+</svg>
